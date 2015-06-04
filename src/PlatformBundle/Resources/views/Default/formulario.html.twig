@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Registro Usuario</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="blurBg-true" style="background-color:#007100">
+
+
+
+<!-- Start Formoid form-->
+
+{% stylesheets '@PlatformBundle/Resources/public/css/*' %}
+    <link rel="stylesheet" href="{{ asset_url }}">
+{% endstylesheets %}
+
+{% javascripts '@PlatformBundle/Resources/public/js/*' %}
+    <script type="text/javascript" src="{{ asset_url }}"></script>
+{% endjavascripts %}
+
+
+<form action = "registro.php"class="formoid-solid-light-green" style="background-color:#aaaa7f;font-size:14px;font-family:'Roboto',Arial,Helvetica,sans-serif;color:#34495E;max-width:480px;min-width:150px" method="post">
+<div class="title"><h2>Registro Usuario</h2></div>
+	<div class="element-input"><label class="title"></label><div class="item-cont"><input class="large" type="text" name="nombreCompleto" placeholder="Nombre Completo"/><span class="icon-place"></span></div></div>
+
+	<div class="element-input"><label class="title"></label><div class="item-cont"><input class="large" type="text" name="nombreUsuario" placeholder="Nombre Usuario"/><span class="icon-place"></span></div></div>
+
+	<div class="element-email"><label class="title"></label><div class="item-cont"><input class="large" type="email" name="email" value="" placeholder="Correo Electrónico "/><span class="icon-place"></span></div></div>
+
+	<div class="element-password"><label class="title"></label><div class="item-cont"><input class="large" type="password" name="password" value="" placeholder="Contraseña"/><span class="icon-place"></span></div></div>
+	
+	<div class="element-radio"><label class="title">Tipo de Usuario</label>		<div class="column column1"><label><input type="radio" name="tipo" value="Estudiante" /><span>Estudiante</span></label><label><input type="radio" name="tipo" value="Catedrático" /><span>Catedrático</span></label></div><span class="clearfix"></span>
+</div>
+<div class="submit"><input type="submit" value="Enviar"/></div></form><script type="text/javascript" src="formas/formoid-solid-light-green.js"></script>
+<!-- Stop Formoid form-->
+
+
+
+</body>
+</html>

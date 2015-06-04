@@ -1,0 +1,5 @@
+services:
+    platform_user.registration.form.type:
+        class: PlatformBundle\Form\Type\RegistrationFormType
+        tags:
+            - { name: form.type, alias: platform_user_registration }
