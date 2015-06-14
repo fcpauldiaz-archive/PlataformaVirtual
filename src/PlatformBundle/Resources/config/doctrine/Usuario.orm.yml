@@ -1,10 +1,15 @@
 PlatformBundle\Entity\Usuario:
     type: entity
-    table: null
+    table: Usuarios
     id:
         id:
             type: integer
             id: true
             generator:
                 strategy: AUTO
+    fields:
+        nombreCompleto:
+           type: string
+           length: 255
+       
     lifecycleCallbacks: {  }

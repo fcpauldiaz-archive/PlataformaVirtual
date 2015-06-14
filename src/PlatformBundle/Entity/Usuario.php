@@ -10,7 +10,7 @@ use Symfony\Component\Validator\Constraints as Assert;
 
 /**
  * Usuario
- * @ORM\Table("Usuario")
+ * @ORM\Table("Usuarios")
  */
 class Usuario extends BaseUser
 {
@@ -24,14 +24,14 @@ class Usuario extends BaseUser
     protected $id;
 
      /**
-     * @ORM\Column(type="string",length = 255)
-    * @Assert\NotBlank(message="Porfavor ingrese su nombre.", groups={"Registration", "Profile"})
+     * @ORM\Column(name = "nombreCompleto",type="string",length = 255)
+     * @Assert\NotBlank(message="Porfavor ingrese su nombre.")
      * @Assert\Length(
      *     min=3,
      *     max="255",
      *     minMessage="El nombre es muy corto.",
      *     maxMessage="El nombre es muy largo.",
-     *     groups={"Registration", "Profile"}
+     *     
      * )
      * @var string
      * 

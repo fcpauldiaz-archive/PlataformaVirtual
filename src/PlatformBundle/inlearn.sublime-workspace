@@ -1,0 +1,1209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opcion",
+				"opcion_sabor"
+			],
+			[
+				"subTota",
+				"subtotal2Decoracion"
+			],
+			[
+				"contras",
+				"contrasenia"
+			],
+			[
+				"nombre",
+				"nombreUsuario"
+			],
+			[
+				"confirm",
+				"confirmar_contrasenia"
+			],
+			[
+				"subtota",
+				"subtotalDecoracion"
+			],
+			[
+				"total",
+				"totalTamanio"
+			],
+			[
+				"opcio",
+				"opcion_ingresada"
+			],
+			[
+				"precio_1",
+				"precio_16porciones"
+			],
+			[
+				"precio_base",
+				"precio_base_rectangular"
+			],
+			[
+				"precio_bas",
+				"precio_base_rectangular"
+			],
+			[
+				"precio_",
+				"precio_9porciones"
+			],
+			[
+				"precio_base_",
+				"precio_base_circular"
+			],
+			[
+				"precio_6",
+				"precio_6porciones"
+			],
+			[
+				"Bo",
+				"BooleanField"
+			],
+			[
+				"User",
+				"UserProfile"
+			],
+			[
+				"Aut",
+				"AUTH_PROFILE_MODULE"
+			],
+			[
+				"g",
+				"Gerente"
+			],
+			[
+				"Au",
+				"AUTH_PROFILE_MODULE"
+			],
+			[
+				"ge",
+				"get_or_create"
+			],
+			[
+				"perfil",
+				"perfil_trabajador"
+			],
+			[
+				"perfil_",
+				"perfil_socio"
+			],
+			[
+				"socio",
+				"socio_encargado"
+			],
+			[
+				"gerente",
+				"gerente_encargado"
+			],
+			[
+				"list_",
+				"list_filter"
+			],
+			[
+				"lis",
+				"list_editable"
+			],
+			[
+				"get",
+				"get_profile"
+			],
+			[
+				"U",
+				"UpdateTrabajadorForm"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"list",
+				"list_display"
+			],
+			[
+				"Gerente",
+				"GerenteAdmin"
+			],
+			[
+				"Trabaja",
+				"TrabajadorAdmin"
+			],
+			[
+				"difi",
+				"dificil"
+			],
+			[
+				"loop",
+				"loopDificultad"
+			],
+			[
+				"salirS",
+				"salirSprite2"
+			],
+			[
+				"dibujar",
+				"dibujarImagen"
+			],
+			[
+				"imagenNave5",
+				"imagenNave5Derecha"
+			],
+			[
+				"imagenNave",
+				"imagenNave5"
+			],
+			[
+				"no",
+				"noborrar2"
+			],
+			[
+				"mostrar",
+				"mostrarExplocion"
+			],
+			[
+				"record",
+				"recordActual"
+			],
+			[
+				"rec",
+				"recordActual"
+			],
+			[
+				"score",
+				"scoreActual"
+			],
+			[
+				"dibu",
+				"dibujarImagen"
+			],
+			[
+				"actu",
+				"actualizarScore"
+			],
+			[
+				"aum",
+				"aumentarScore"
+			],
+			[
+				"au",
+				"aumentarScore"
+			],
+			[
+				"na",
+				"nada"
+			],
+			[
+				"cuadro",
+				"cuadroRelleno"
+			],
+			[
+				"vecto",
+				"vectoresIniciales"
+			],
+			[
+				"ver",
+				"verificar2"
+			],
+			[
+				"vali",
+				"validacionBloques"
+			],
+			[
+				"verfi",
+				"verificar4"
+			],
+			[
+				"regresa",
+				"regresar2"
+			],
+			[
+				"posy",
+				"posyBala"
+			],
+			[
+				"cua",
+				"cuadro2"
+			],
+			[
+				"mo",
+				"MostrarSeleccion"
+			],
+			[
+				"cu",
+				"cuadro1"
+			],
+			[
+				"null",
+				"nullCuadro"
+			],
+			[
+				"reu",
+				"resultadoFormato"
+			],
+			[
+				"posx",
+				"posx"
+			],
+			[
+				"y",
+				"ybala"
+			],
+			[
+				"nul",
+				"nullCuadro"
+			],
+			[
+				"pox",
+				"posxBala"
+			],
+			[
+				"bala",
+				"balaDisparada"
+			],
+			[
+				"ba",
+				"balaDisparada"
+			],
+			[
+				"bo",
+				"botonPresionado"
+			],
+			[
+				"jua",
+				"jugadorSeleccionado"
+			],
+			[
+				"jugador",
+				"jugadorSeleccionado"
+			],
+			[
+				"x",
+				"xbala"
+			],
+			[
+				"fb",
+				"fbInfoAddr"
+			],
+			[
+				"pinta",
+				"pintarBloque"
+			],
+			[
+				"gen",
+				"generarOtro"
+			],
+			[
+				"ra",
+				"randomPosicion3"
+			],
+			[
+				"ran",
+				"randomPosicion3"
+			],
+			[
+				"gene",
+				"generarOtro2"
+			],
+			[
+				"Mo",
+				"MostrarSeleccion"
+			],
+			[
+				"pintar",
+				"pintarBloques"
+			],
+			[
+				"cud",
+				"cuadroRelleno"
+			],
+			[
+				"jga",
+				"jugadorSeleccionado"
+			],
+			[
+				"dbu",
+				"dibujarNave"
+			],
+			[
+				"ima",
+				"imagenNave4"
+			],
+			[
+				"juga",
+				"jugadorSeleccionado"
+			],
+			[
+				"loo",
+				"loopMainJuego"
+			],
+			[
+				"izq",
+				"izquierda1"
+			],
+			[
+				"contador",
+				"contadorPos"
+			],
+			[
+				"Sle",
+				"SeleccionarJugador"
+			],
+			[
+				"Sele",
+				"SeleccionarJugador"
+			],
+			[
+				"fn",
+				"fbInfoAddr"
+			],
+			[
+				"M",
+				"MainJuego"
+			],
+			[
+				"fra",
+				"frameBuffer"
+			],
+			[
+				"subir",
+				"subirsegunda"
+			],
+			[
+				"sub",
+				"subirprimera"
+			],
+			[
+				"conta",
+				"contadorPos"
+			],
+			[
+				"su",
+				"SubirMenu"
+			],
+			[
+				"con",
+				"contadorPos"
+			],
+			[
+				"Se",
+				"SetForeColour"
+			],
+			[
+				"re",
+				"cuadroRelleno"
+			],
+			[
+				"co",
+				"contadorPos"
+			],
+			[
+				"contad",
+				"contadorAncho"
+			],
+			[
+				"di",
+				"dibujarImagen"
+			],
+			[
+				"noE",
+				"noEncender"
+			],
+			[
+				"vocal",
+				"vocalNumero"
+			],
+			[
+				"R",
+				"RequestContext"
+			],
+			[
+				"h",
+				"HttpResponseRedirect"
+			],
+			[
+				"num",
+				"numerosPares"
+			],
+			[
+				"positivos",
+				"positivos2"
+			],
+			[
+				"ve",
+				"verificarPares"
+			],
+			[
+				"cnt",
+				"contadorPosyPares"
+			],
+			[
+				"guar",
+				"guardarResultado"
+			],
+			[
+				"form",
+				"formatEnd"
+			],
+			[
+				"tri",
+				"trianguloInferior"
+			],
+			[
+				"ma",
+				"manoIzquierda"
+			],
+			[
+				"dib",
+				"dibujarCuadrado"
+			],
+			[
+				"to",
+				"torsoInferior"
+			],
+			[
+				"Dr",
+				"DrawLine"
+			],
+			[
+				"set",
+				"SetForeColour"
+			],
+			[
+				"r4",
+				"r4-r12"
+			],
+			[
+				"radiu",
+				"radiusError"
+			],
+			[
+				"radi",
+				"radiusError"
+			],
+			[
+				"rad",
+				"radiusError"
+			],
+			[
+				"soft",
+				"softPwmWrite"
+			],
+			[
+				"NoMostrar",
+				"NoMostrarTresJ2"
+			],
+			[
+				"NoMo",
+				"NoMostrarDosJ2"
+			],
+			[
+				"No",
+				"NoMostrarUNOJ2"
+			],
+			[
+				"Most",
+				"MostrarTresJ1"
+			],
+			[
+				"SetG",
+				"SetGpioFunction"
+			],
+			[
+				"sali",
+				"salirHoldEntradaJugador2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "UserBundle.php",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/PlatformBundle.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/views/base.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/config/routing_dev.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/config/routing.yml",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validation.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/config/config_dev.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/config/routing.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/config/config.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/views/base_user.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Entity/Usuario.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/config/doctrine/Entity.Usuario.orm.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/views/Registration/register.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/views/Security/login.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/config/parameters.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/views/Registration/register_content.html.twig",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/web/css/style.css",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/app/Resources/FOSUserBundle/views/Security/login_old.html.twig",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/app/Resources/FOSUserBundle/views/layout_old.html.twig",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/app/Resources/FOSUserBundle/views/layout_old.htm.twig.html",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/views/layout_old.htm.twig.html",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/login.html.twig.html",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/index.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/web/js/login.js",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/views/default/index.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/twig/twig/lib/Twig/Extension/Debug.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/composer.json",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Resetting/reset.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/config/doctrine/Usuario.orm.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/config/security.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/loginBoostrap.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/registration.xml",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/app/Resources/config/validation/orm.xml",
+		"/Users/usuario/Dropbox/uvg/5ºsemestre/análisis de sistemas/proyectofinal/plataforma_virtual/app/Resources/config/validation.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validation.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/doctrine/doctrine-bundle/Resources/config/orm.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/doctrine/User.orm.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validator.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/translations/validators.es.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Command/Validators.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/AppKernel.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/public/css/bootstrap.min.css",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/public/css/carousel.css",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/login.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/PlataformaVirtual/studentPlatform/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig 2",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/PlataformaVirtual/studentPlatform/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Form/Type/RegistrationFormType.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/config/services.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/views/base_user.html.twig.html",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/config/validators/orm.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validation/orm.xml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Form/Type/RegistrationFormType.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/formulario.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/public/css/formoid-solid-light-green.css",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/formularioCrearUsuario.html",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/AppBundle/Controller/DefaultController.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/UserBundle/Resources/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/Resources/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/Resources/views/Security/login.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOSUserBundle/Resources/views/layout.html.twig.html",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FOS/UserBundle/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/PlatformBundle/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/app/Resources/FSOUserBundle/views/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/views/Default/layout.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/register_content.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/register.html.twig",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Entity/Entity/Usuario.php",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/orm.xml",
+		"/Users/usuario/Desktop/login.html",
+		"/Users/usuario/Desktop/login2.html",
+		"/Users/usuario/Desktop/bootstrap.js",
+		"/Users/usuario/Desktop/bootsrap.css",
+		"/Users/usuario/Desktop/ex.js",
+		"/Users/usuario/Desktop/example.css",
+		"/Users/usuario/Google Drive/Cursos/Django/diazreyes original/control/admin.py",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/blog/app/config/routing.yml",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/blog/src/BlogBundle/Resources/views/login.html.twig",
+		"/Users/usuario/Google Drive/FL4.py",
+		"/Users/usuario/Google Drive/FL3.py",
+		"/Users/usuario/Google Drive/HA.py",
+		"/Users/usuario/Google Drive/Gentzen9.py",
+		"/Users/usuario/Google Drive/GentzenComplejo.py",
+		"/Users/usuario/Google Drive/Gentzen3.py",
+		"/Users/usuario/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/usuario/Google Drive/Cursos/Python/MongoDB/ModuloPasteles.py",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/lógica/IndependenciaGentzen.py",
+		"/Users/usuario/Dropbox/UVG/5ºsemestre/lógica/hola.py",
+		"/Users/usuario/Google Drive/hola.py",
+		"/Users/usuario/Google Drive/Cursos/Python/ModuloPasteles.py",
+		"/Users/usuario/Google Drive/Cursos/Python/PastelesPrincipalDB.py",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Proyecto Assembler/source/main.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Proyecto Assembler/source/subrutinasProyecto.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Proyecto Assembler/source/imagenVidaPerdida.s",
+		"/Users/usuario/Google Drive/Docs/Web/SpaceHunter/startbootstrap-agency-1.0.3/index.html",
+		"/Users/usuario/Google Drive/Cursos/Python/PastelesPrincipal.py",
+		"/Users/usuario/Desktop/hdt7/clasificacionesPro.py",
+		"/Users/usuario/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/usuario/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/usuario/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/usuario/Google Drive/Cursos/Django/DRA/control/models.py",
+		"/Users/usuario/Documents/virtualDRA/dra/draUser/forms.py",
+		"/Users/usuario/Documents/virtualDRA/dra/draUser/admin.py",
+		"/Users/usuario/Documents/virtualDRA/dra/draUser/models.py",
+		"/Users/usuario/Documents/virtualDRA/dra/dra/settings.py",
+		"/Users/usuario/Desktop/Test.java",
+		"/Users/usuario/Desktop/Test.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/test.html",
+		"/Users/usuario/Google Drive/Cursos/JQuery/Program Files/index.html",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/getgpio.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/escena.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Laboratorios/Input/Ejercicio 4/source/main.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/gpio.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/keyboard.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Laboratorios/Screen/screen04 2/source/main.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/imagenSeleccion.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/nave.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Laboratorios/Screen/Lab 7/source/main.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/subrutinaEj4.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/instrucciones.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/imprimir.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Laboratorios/Input/Lab 10/source/drawImage.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/drawImage.s",
+		"/Users/usuario/Desktop/Soluci¢n lab 6/source/main.s",
+		"/Users/usuario/Dropbox/UVG/4º semestre/assembler 2/Laboratorios/Screen/mario2014/source/main.s",
+		"/Users/usuario/Dropbox/Proyecto Assembler/source/drawingImage.s"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%}\n",
+			"firewall",
+			"glyphicon",
+			"/>\n",
+			"label",
+			"~\n",
+			"   \n",
+			"edit",
+			"createForm",
+			"/admin/login",
+			"/admin/user/new",
+			"integer",
+			"sabores",
+			"append",
+			"}\n",
+			"User",
+			"guarda",
+			"PerfilUsuario",
+			"\")",
+			"neo4",
+			"neo4dj",
+			"Dificultad",
+			"dificultad",
+			"posx",
+			"eliminarCuadro",
+			"Choque",
+			"eliminarCuadro",
+			"eliminiarCuadro",
+			"actualizarScore",
+			"eliminarCuadro",
+			"score",
+			"eliminarCuadro",
+			"actualizar",
+			"imagencredit",
+			"choque",
+			"seleccionar",
+			"instrucciones",
+			"seleccionar",
+			"seleccion",
+			"creditos",
+			"MainJuego",
+			"MostrarSeleccion",
+			"bl MostrarSeleccion",
+			"MostrarSeleccion",
+			"ycuadro",
+			"dibujarBala",
+			"animarBala",
+			"posyBala",
+			"ybala",
+			"balaDisparada",
+			"posxBala",
+			"r4",
+			"posx",
+			"ybala",
+			"r7",
+			"r6",
+			"jugadorSeleccionado",
+			"xcuadro",
+			"cuadroRelleno",
+			"xcuadro",
+			"fbInfo",
+			"continuar2",
+			"randomPosicion",
+			"radomPosicion",
+			"randomPosicion",
+			"r6",
+			"r12",
+			"timerOk",
+			"date",
+			"fecha",
+			"ssh",
+			"	\n",
+			"r6",
+			"r10",
+			"r6",
+			"r5r6",
+			"r5",
+			"r4",
+			"ldr",
+			"r12",
+			"r9",
+			"r3",
+			"        \n",
+			"espera",
+			"blne"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "UserBundle.php",
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 173.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"plat",
+				"src/PlatformBundle/PlatformBundle.php"
+			],
+			[
+				"routing_de",
+				"app/config/routing_dev.yml"
+			],
+			[
+				"routing.",
+				"src/PlatformBundle/Resources/config/routing.yml"
+			],
+			[
+				"rout",
+				"app/config/routing.yml"
+			],
+			[
+				"usuario.",
+				"src/PlatformBundle/Resources/config/doctrine/Usuario.orm.yml"
+			],
+			[
+				"usuario",
+				"src/PlatformBundle/Entity/Usuario.php"
+			],
+			[
+				"login.htm.twig",
+				"app/Resources/FOSUserBundle/views/Security/login.html.twig"
+			],
+			[
+				"checke",
+				"app/Resources/FOSUserBundle/views/Registration/checkEmail.html.twig"
+			],
+			[
+				"config.ym",
+				"app/config/config.yml"
+			],
+			[
+				"parame",
+				"app/config/parameters.yml"
+			],
+			[
+				"config",
+				"app/config/config.yml"
+			],
+			[
+				"layout",
+				"app/Resources/FOSUserBundle/views/layout.html.twig"
+			],
+			[
+				"register_",
+				"app/Resources/FOSUserBundle/views/Registration/register_content.html.twig"
+			],
+			[
+				"confirmed",
+				"app/Resources/FOSUserBundle/views/Registration/confirmed.html.twig"
+			],
+			[
+				"register_con",
+				"app/Resources/FOSUserBundle/views/Registration/register_content.html.twig"
+			],
+			[
+				"login.htm.",
+				"app/Resources/FOSUserBundle/views/Security/login.html.twig"
+			],
+			[
+				"register_content",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/register_content.html.twig"
+			],
+			[
+				"register_conte",
+				"app/Resources/FOSUserBundle/views/Registration/register_content.html.twig"
+			],
+			[
+				"register.html.twig",
+				"app/Resources/FOSUserBundle/views/Registration/register.html.twig"
+			],
+			[
+				"login.ht",
+				"app/Resources/FOSUserBundle/views/Security/login.html.twig"
+			],
+			[
+				"login.html.twig",
+				"app/Resources/FOSUserBundle/views/Security/login.html.twig"
+			],
+			[
+				"layout.html.twig",
+				"app/Resources/FOSUserBundle/views/layout.html.twig"
+			],
+			[
+				"layout.html",
+				"app/Resources/FOSUserBundle/views/layout.html.twig"
+			],
+			[
+				"index.html.twig",
+				"src/PlatformBundle/Resources/views/Default/index.html.twig"
+			],
+			[
+				"index.htm",
+				"app/Resources/views/default/index.html.twig"
+			],
+			[
+				"secur",
+				"app/config/security.yml"
+			],
+			[
+				"config.yml",
+				"app/config/config.yml"
+			],
+			[
+				"xdebug",
+				"vendor/twig/twig/lib/Twig/Extension/Debug.php"
+			],
+			[
+				"config_dev.yml",
+				"app/config/config_dev.yml"
+			],
+			[
+				"routing.yml",
+				"src/PlatformBundle/Resources/config/routing.yml"
+			],
+			[
+				"reseetting.html",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Resetting/reset.html.twig"
+			],
+			[
+				"register",
+				"app/Resources/FOSUserBundle/views/Registration/register_content.html.twig"
+			],
+			[
+				"login",
+				"app/Resources/FOSUserBundle/views/Security/login.html.twig"
+			],
+			[
+				"compoer",
+				"composer.json"
+			],
+			[
+				"para",
+				"app/config/parameters.yml"
+			],
+			[
+				"paramete",
+				"app/config/parameters.yml"
+			],
+			[
+				"parameters.yml",
+				"app/config/parameters.yml"
+			],
+			[
+				"orm.xml",
+				"vendor/doctrine/doctrine-bundle/Resources/config/orm.xml"
+			],
+			[
+				"validate",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/translations/validators.es.yml"
+			],
+			[
+				"validator",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validator.xml"
+			],
+			[
+				"validators",
+				"vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Command/Validators.php"
+			],
+			[
+				"loginboo",
+				"src/PlatformBundle/Resources/views/Default/loginBoostrap.html.twig"
+			],
+			[
+				"appkernel",
+				"app/AppKernel.php"
+			],
+			[
+				"ker",
+				"app/AppKernel.php"
+			],
+			[
+				"index.html.twg",
+				"app/Resources/views/default/index.html.twig"
+			],
+			[
+				"usu",
+				"src/PlatformBundle/Entity/Usuario.php"
+			],
+			[
+				"formregistra",
+				"src/PlatformBundle/Form/Type/RegistrationFormType.php"
+			],
+			[
+				"base.html.twig",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"layout.html.tw",
+				"app/Resources/FOSUserBundle/views/layout.html.twig"
+			],
+			[
+				"routin",
+				"app/config/routing.yml"
+			],
+			[
+				"security.",
+				"app/config/security.yml"
+			],
+			[
+				"registra",
+				"src/PlatformBundle/Form/Type/RegistrationFormType.php"
+			],
+			[
+				"services.yml",
+				"src/PlatformBundle/Resources/config/services.yml"
+			],
+			[
+				"registrationfo",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Form/Type/RegistrationFormType.php"
+			],
+			[
+				"usuario.php",
+				"src/PlatformBundle/Entity/Usuario.php"
+			],
+			[
+				"registration.html.twig",
+				"app/Resources/FOSUserBundle/views/Registration/register.html.twig"
+			],
+			[
+				"formulario.html.ti",
+				"src/PlatformBundle/Resources/views/Default/formulario.html.twig"
+			],
+			[
+				"login.html.",
+				"app/Resources/FOSUserBundle/views/Security/login.html.twig"
+			],
+			[
+				"layou",
+				"app/Resources/FOSUserBundle/views/layout.html.twig"
+			],
+			[
+				"login.htm",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig"
+			],
+			[
+				"layo",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/layout.html.twig"
+			],
+			[
+				"entity.us",
+				"/Users/usuario/Dropbox/UVG/5ºsemestre/Análisis de sistemas/ProyectoFinal/plataforma_virtual/src/PlatformBundle/Resources/config/doctrine/Entity.Usuario.orm.yml"
+			],
+			[
+				"appker",
+				"app/AppKernel.php"
+			],
+			[
+				"routing",
+				"app/config/routing.yml"
+			],
+			[
+				"confi",
+				"app/config/config.yml"
+			],
+			[
+				"security.yml",
+				"app/config/security.yml"
+			],
+			[
+				"config.y",
+				"app/config/config.yml"
+			],
+			[
+				"orm",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/orm.xml"
+			],
+			[
+				"usuar",
+				"src/PlatformBundle/Entity/Entity/Usuario.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"formulario",
+				"src/PlatformBundle/Resources/views/Default/formularioCrearUsuario.html"
+			],
+			[
+				"appkernel.php",
+				"app/AppKernel.php"
+			],
+			[
+				"usercontro",
+				"src/BlogBundle/Controller/UserController.php"
+			],
+			[
+				"post",
+				"/Users/usuario/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			[
+				"run",
+				"/Users/usuario/Google Drive/Cursos/Python/PastelesPrincipal.py"
+			],
+			[
+				"",
+				"/Users/usuario/Google Drive/Cursos/Django/diazreyes/control/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true
+}

@@ -5,7 +5,7 @@ imports:
 
 framework:
     #esi:             ~
-    #translator:      { fallbacks: ["%locale%"] }
+    translator:      { fallbacks: ["%locale%"] }
     secret:          "%secret%"
     router:
         resource: "%kernel.root_dir%/config/routing.yml"
@@ -79,5 +79,24 @@ fos_user:
     registration:
         form:
             type: platform_user_registration
+        confirmation:
+            enabled:    true # change to true for required email confirmation
+            template:   FOSUserBundle:Registration:email.txt.twig       
+    from_email:
+       address:        noreply@elearn.com
+       sender_name:    E- Learn Plataform
+
+    resetting:
+        token_ttl: 86400
+        email:
+            
+            template:   FOSUserBundle:Resetting:email.txt.twig
+        form:
+            type:               fos_user_resetting
+            name:               fos_user_resetting_form
+            validation_groups:  [ResetPassword, Default]
+    service:
+        mailer:                  fos_user.mailer.twig_swift
+        
 
 
